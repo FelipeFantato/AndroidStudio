@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="titulo_app_lyric">Titulo Letras de Música</string>
+    <string name="bem_vindos_label">Bem vindos</string>
+    <string name="lyric1">
+        Aí, Pablo RB \n
+        Vem com o bigodinho de Hitler, que minha pepeca é terrorista \n
+        Pipokinha, princesa da putaria \n
+    </string>
+    <string name="lyric2">
+        Bota, bota o bigode na minha xota \n
+        Bota, bota, bota o bigode na minha xota \n
+        De 4 que entra tudo, dá um tesão do caralho \n
+        De 4, de 4
+    </string>
+</resources>
